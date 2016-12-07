@@ -1,0 +1,27 @@
+{
+  "name": "oauth_github_jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denesnori/oauth_github_jwt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denesnori/oauth_github_jwt/issues"
+  },
+  "homepage": "https://github.com/denesnori/oauth_github_jwt#readme",
+  "dependencies": {
+    "env2": "^2.1.1",
+    "hapi": "^16.0.1",
+    "hapi-auth-jwt2": "^7.2.4",
+    "inert": "^4.0.3",
+    "json-web-token": "^2.0.3",
+    "request": "^2.79.0"
+  }
+}
